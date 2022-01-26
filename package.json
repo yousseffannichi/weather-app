@@ -1,0 +1,23 @@
+{
+    "name": "weather-app",
+    "version": "1.0.0",
+    "description": "This app gives you weather condition based on a location when you hit the weather API",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yousseffannichi/weather-app.git"
+    },
+    "author": "Youssef Fannichi",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/yousseffannichi/weather-app/issues"
+    },
+    "homepage": "https://github.com/yousseffannichi/weather-app#readme",
+    "dependencies": {
+        "dotenv": "^14.2.0",
+        "postman-request": "^2.88.1-postman.31"
+    }
+}
